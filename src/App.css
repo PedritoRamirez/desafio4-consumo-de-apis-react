@@ -1,0 +1,34 @@
+
+.contInput{
+  text-align: center;
+  margin-top: 30px;
+}
+.entrada{
+  background-color: bisque;
+}
+
+h1{
+  text-align: center;
+  color: yellow;
+  font-size: 55px;
+}
+.imgPer{
+  height: 400px;
+  width: 250;
+
+}
+.pLetra{
+  color: rgb(231, 255, 47);
+  font-size: 20px;
+  width: 930px;
+}
+.contenedor{
+  display: flex;
+  flex-wrap: wrap;
+}
+.boxAtributos{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 50px;
+}
